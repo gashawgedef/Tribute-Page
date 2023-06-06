@@ -1,2 +1,2 @@
 # Tribute-Page
-##Gashaw Gedef Shibabaw
+Gashaw Gedef Shibabaw 
